@@ -1,9 +1,12 @@
 # task5-10
 Malware Types &amp; Behavior Analysis
+
 **Task Summary**
+
 This project involved a comprehensive study of malware types, their lifecycles, and practical analysis using industry-standard tools like VirusTotal within a Kali Linux environment. The goal was to understand how threats operate and how to defend against them.
 
 Step-by-Step Technical Activities
+
 **1. Malware Categorization**
 Researched and identified the core differences between major malware families:
 
